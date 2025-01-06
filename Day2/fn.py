@@ -26,3 +26,7 @@ bool()
 
 print("Numbers of letter in your name: " + str(len(input("What is your name? "))))
 #            "str"                       + converted to string = "str"
+
+#round function : Rounds the number to the nearest integer
+print(round(3.14)) # 3
+print(round(3.54)) # 4
