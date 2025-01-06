@@ -36,3 +36,5 @@ print("the value is : " + str(value)) # the value is : 0.8599999999999
 #round function : Rounds the number to the nearest integer
 print(round(3.14)) # 3
 print(round(3.54)) # 4
+value = 22/7
+print(round(value, 2)) # 3.14
