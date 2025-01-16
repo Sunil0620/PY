@@ -40,4 +40,8 @@ list2 = [4, 5, 6]
 list1.extend(list2)
 print(list1)  # Output: [1, 2, 3, 4, 5, 6]
 
-#List Comprehension:
+#Nested lists:
+fruits = ["apple", "banana", "cherry"]
+vegetables = ["carrot", "spinach", "broccoli"]
+grocery_list = [fruits, vegetables]
+print(grocery_list)
