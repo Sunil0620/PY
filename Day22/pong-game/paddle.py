@@ -12,9 +12,9 @@ class Paddle(Turtle):
         
     def go_up(self):
         """Move the paddle up by 20 units."""
-        new_y = self.ycor() + 20
+        new_y = self.ycor() + 40
         self.goto(self.xcor(), new_y)
     def go_down(self):
         """Move the paddle down by 20 units."""
-        new_y = self.ycor() - 20
+        new_y = self.ycor() - 40
         self.goto(self.xcor(), new_y)
