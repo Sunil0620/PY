@@ -18,16 +18,12 @@ l_paddle = Paddle((-350, 0))
 
 pause = Pause()
 
-def quit_game():
-    global game_is_on
-    game_is_on = False
-
 screen.listen()
 screen.onkey(r_paddle.go_up, "Up")
 screen.onkey(r_paddle.go_down, "Down")
 screen.onkey(l_paddle.go_up, "w")
 screen.onkey(l_paddle.go_down, "s")
-screen.onkey(quit_game, "q")
+screen.onkey(lambda: globals().__setitem__('game_is_on', False), "q")
 screen.onkey(pause.toggle_pause, "p")
 
 game_is_on = True
@@ -65,5 +61,4 @@ while game_is_on:
         scoreboard.r_point()
         time.sleep(0.5)  # Pause after point
         
-quit_game()
 screen.exitonclick()
