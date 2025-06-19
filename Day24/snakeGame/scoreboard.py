@@ -11,9 +11,9 @@ class Scoreboard(Turtle):
         self.goto(0, 270)
         self.score = 0
         if not os.path.exists("data.txt"):
-            with open("data.txt", "w") as file:
+            with open("data.txt", "w", encoding="utf-8") as file:
                 file.write("0")
-        with open("data.txt") as data:
+        with open("data.txt", encoding="utf-8") as data:
             self.high_score = int(data.read())
         self.color("white")
         self.hideturtle()
@@ -27,7 +27,7 @@ class Scoreboard(Turtle):
         """Reset the score to 0 and update the scoreboard."""
         if self.score > self.high_score:
             self.high_score = self.score
-            with open("data.txt", mode="w") as data:
+            with open("data.txt", mode="w", encoding="utf-8") as data:
                 data.write(str(self.high_score))
         self.score = 0
         self.update_scoreboard()
