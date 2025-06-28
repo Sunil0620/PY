@@ -1,0 +1,38 @@
+# Core Python packages used in 100 Days of Python
+# Data Science and Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Web Development
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+flask>=2.2.0
+
+# GUI Development
+tkinter-tooltip>=2.1.0
+
+# Game Development
+pygame>=2.1.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Email and SMTP
+smtplib2>=0.2.1
+
+# File Operations
+openpyxl>=3.0.10
+PyPDF2>=3.0.1
+
+# API and HTTP
+urllib3>=1.26.0
+json5>=0.9.0
+
+# Date and Time
+python-dateutil>=2.8.0
+
+# Development Tools
+autopep8>=2.0.0
+pylint>=2.15.0
