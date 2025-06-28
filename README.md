@@ -112,7 +112,7 @@ I'm always excited to connect with fellow Python enthusiasts and developers! Whe
 **Repository Structure:**
 
 ```text
-📁 100-Days-Python/
+📁 PY/
 ├── 📁 Day01-Day27/     # Completed projects and exercises
 ├── 📁 .github/         # Issue templates and workflows
 ├── 📄 README.md        # This file
@@ -149,19 +149,19 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ### 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/suniL0620/100-Days-Python?style=flat-square&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/suniL0620/100-Days-Python?style=flat-square&color=green)
-![GitHub issues](https://img.shields.io/github/issues/suniL0620/100-Days-Python?style=flat-square&color=red)
-![GitHub stars](https://img.shields.io/github/stars/suniL0620/100-Days-Python?style=flat-square&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/suniL0620/100-Days-Python?style=flat-square&color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/suniL0620/PY?style=flat-square&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/suniL0620/PY?style=flat-square&color=green)
+![GitHub issues](https://img.shields.io/github/issues/suniL0620/PY?style=flat-square&color=red)
+![GitHub stars](https://img.shields.io/github/stars/suniL0620/PY?style=flat-square&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/suniL0620/PY?style=flat-square&color=orange)
 
 ### 🔗 Quick Links
 
 - 📚 **Course Link:** [100 Days of Code - Python on Udemy](https://www.udemy.com/course/100-days-of-code/)
 - 👩‍🏫 **Instructor:** Dr. Angela Yu
 - 📖 **Documentation:** Check individual day folders for project-specific docs
-- 🐛 **Issues:** [Report a Bug](https://github.com/suniL0620/100-Days-Python/issues/new?template=bug_report.md)
-- 💡 **Feature Request:** [Suggest a Feature](https://github.com/suniL0620/100-Days-Python/issues/new?template=feature_request.md)
+- 🐛 **Issues:** [Report a Bug](https://github.com/suniL0620/PY/issues/new?template=bug_report.md)
+- 💡 **Feature Request:** [Suggest a Feature](https://github.com/suniL0620/PY/issues/new?template=feature_request.md)
 
 ### 🌟 Support This Journey
 
