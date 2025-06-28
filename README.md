@@ -183,8 +183,8 @@ If you find this repository helpful or inspiring, please consider:
 
 - 📧 **Email:** [sunilsaini5652@gmail.com](mailto:sunilsaini5652@gmail.com)
 - 🐙 **GitHub:** [@suniL0620](https://github.com/suniL0620)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/sunil-saini)
-- 🐦 **Twitter:** [@suniL_saini](https://twitter.com/suniL_saini)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sunil-saini-6190ba255/)
+- 🐦 **Twitter:** [@suniL_saini](https://x.com/BluStone07)
 
 ---
 
